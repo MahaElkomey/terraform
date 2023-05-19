@@ -14,6 +14,6 @@ AZ_1 = "us-east-1a"
 
 AZ_2 = "us-east-1b"
 
-AMI_ID = "ami-0c94855ba95c71c99"
+AMI_ID = "ami-04505e74c0741db8d"
 
 INSTANCE_TYPE = "t2.micro"
